@@ -1,0 +1,15 @@
+html {
+	background-image: url("../imgs/wallhaven-01kd3g.jpg");
+  background-size: cover;
+  color: #fff;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.keys {
+  display: flex;
+}
+
