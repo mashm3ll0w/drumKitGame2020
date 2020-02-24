@@ -25,6 +25,7 @@ html, body {
   text-align: center;
   padding: .5rem;
   margin: 10px;
+  transition: all .07s ease;
 }
 
 kbd {
@@ -40,4 +41,9 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ef0;
+}
+
+.playing{
+  transform: scale(1.1);
+  border-width: 7px;
 }
